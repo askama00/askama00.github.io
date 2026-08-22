@@ -1,4 +1,0 @@
-{{- $content := partial "render-signature-content.html" (dict "content" .Content) -}}
-<div class="markdown-body prose sakura-post-content{{ partial "post-text-indent-class.html" . }}">
-  {{ $content | safeHTML }}
-</div>

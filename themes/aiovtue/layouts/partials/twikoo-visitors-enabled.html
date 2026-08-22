@@ -1,3 +1,0 @@
-{{- $provider := default "twikoo" site.Params.comment.provider -}}
-{{- $envId := or site.Params.twikoo.envId (index site.Params.twikoo "envid") -}}
-{{- return (and (default false site.Params.twikoo.visitorEnable) (eq $provider "twikoo") $envId) -}}

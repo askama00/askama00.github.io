@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>askama00</title>
+		<link>https://askama00.github.io/</link>
+		<description>Recent content on askama00</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://askama00.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link></link>
+				<pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+				<guid></guid>
+				<description>&lt;p&gt;这是本站的第一条动态，本站可以访问了！&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ubuntu更换apt源</title>
+				<link>https://askama00.github.io/posts/ubuntuchangesource/</link>
+				<pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>https://askama00.github.io/posts/ubuntuchangesource/</guid>
+				<description>&lt;p&gt;&lt;code&gt;Ubuntu&lt;/code&gt;现在默认的软件源地址就比较快速，默认的地址不是&lt;code&gt;Ubuntu&lt;/code&gt;应该就是&lt;code&gt;清华源&lt;/code&gt;，但是作者比较喜欢更换为&lt;code&gt;阿里源&lt;/code&gt;来使用，我们在&lt;code&gt;Ubuntu24.04&lt;/code&gt;及以下版本可以使用软件工具中的软件和更新工具来自动检测合适的源并进行更换，更换完之后需要重新载入或执行&lt;code&gt;sudo apt update&lt;/code&gt;来刷新源，但是&lt;code&gt;Ubuntu26.04&lt;/code&gt;默认已经移除了该工具，这里提供一种命令换源的方式，系统版本以&lt;code&gt;Ubuntu24.04+&lt;/code&gt;为例，老版本在文件位置上或略有不同。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>关于我</title>
+				<link>https://askama00.github.io/about/</link>
+				<pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>https://askama00.github.io/about/</guid>
+				<description>&lt;h3 id=&#34;关于本站&#34;&gt;关于本站&lt;/h3&gt;&#xA;&lt;p&gt;欢迎大家来到我的个人博客站，这里记录了我在学习、工作、生活等方面的一些思考和经验。首先，感谢本博客主题作者&lt;a href=&#34;https://daily.yybb.us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AIOVTUE&lt;/a&gt;，他提供了一个非常方便的 Hugo 主题，让我能够快速搭建个人博客。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>一些壁纸</title>
+				<link>https://askama00.github.io/gallery/bizhi/</link>
+				<pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+				<guid>https://askama00.github.io/gallery/bizhi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>秘密哦</title>
+				<link>https://askama00.github.io/gallery/jiamio/</link>
+				<pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://askama00.github.io/gallery/jiamio/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>画板示例文章</title>
+				<link>https://askama00.github.io/excalidraw/demo/</link>
+				<pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+				<guid>https://askama00.github.io/excalidraw/demo/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;此处文字会放在页面上方，该目录下的excalidraw文件会自动渲染为画板，名称无所谓&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;可以通过comment: false开关评论&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>不留下点什么吗</title>
+				<link>https://askama00.github.io/comment/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://askama00.github.io/comment/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>来加入我们叭</title>
+				<link>https://askama00.github.io/links/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://askama00.github.io/links/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>搜索</title>
+				<link>https://askama00.github.io/search/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://askama00.github.io/search/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>追番</title>
+				<link>https://askama00.github.io/bangumi/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://askama00.github.io/bangumi/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
